@@ -1,0 +1,6 @@
+{
+  "name": "Java Döngüler: 4 ve 5'in Kuvvetleri (Enes Öztürk)",
+  "description": "Girilen sayıya kadar olan 4 ve 5'in kuvvetlerini hesaplayan interaktif Java simülatörü, döngü görselleştiricisi ve temiz kaynak kodları - Enes Öztürk",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
